@@ -36,8 +36,6 @@ Team
 <img src="https://user-images.githubusercontent.com/96076158/158644151-474428d8-6b67-4084-a39b-a5e4c688f3fb.png" />
  
 
-  
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
